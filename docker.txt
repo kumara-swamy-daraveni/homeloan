@@ -1,2 +1,6 @@
 FROM ubuntu
 MAINTAINER 'KUMAR'
+
+RUN "echo hi"
+
+RUN "echo hello"
