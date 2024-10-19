@@ -2,3 +2,4 @@ FROM ubuntu
 MAINTAINER 'KUMAR'
 RUN 'push'
 cmd mk
+port 9090
