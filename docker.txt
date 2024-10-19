@@ -1,5 +1,5 @@
-FROM ubuntu
+FROM windows
 MAINTAINER 'KUMAR'
 RUN 'push'
-cmd mk
-port 9090
+cmd kk
+sdfdskf 'kkkkj'
