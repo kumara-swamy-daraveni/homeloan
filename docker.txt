@@ -1,5 +1,5 @@
 FROM ubuntu
 MAINTAINER 'KUMAR'
 RUN 'push'
-cmd mk
+cmd kk
 port 9090
