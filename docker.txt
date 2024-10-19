@@ -1,5 +1,1 @@
-FROM windows
-MAINTAINER 'KUMAR'
-RUN 'push'
-cmd kk
-sdfdskf 'kkkkj'
+FROM Linux
