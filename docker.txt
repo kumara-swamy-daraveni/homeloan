@@ -2,4 +2,4 @@ FROM ubuntu
 MAINTAINER 'KUMAR'
 RUN 'push'
 cmd kk
-port 9090
+sdfdskf 'kkkkj'
