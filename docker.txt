@@ -1,2 +1,3 @@
 FROM ubuntu
 MAINTAINER 'KUMAR'
+cmd mk
