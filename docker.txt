@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM windows
 MAINTAINER 'KUMAR'
 RUN 'push'
 cmd kk
