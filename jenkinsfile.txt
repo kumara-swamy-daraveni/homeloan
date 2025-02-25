@@ -9,12 +9,17 @@
 
 // jira story AB-101
 
-pipeline {
- agent any
- 
-  stages {
-   stage {
-    steps ("git clone")
-   }
-  }
-}
+	pipeline {
+	 agent any
+	 
+	  stages {
+	   stage {
+		steps ("git clone")
+	   }
+	   // story 102 changes
+	   stage {
+		steps ("mvn build")
+		steps (" docker build")
+	   }
+	  }
+	}
